@@ -1,0 +1,10 @@
+server:
+  port: 8008
+
+spring:
+  application:
+    name: installment-billing-system
+
+logging:
+  level:
+    com.installment: DEBUG
